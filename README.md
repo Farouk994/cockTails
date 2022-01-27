@@ -21,3 +21,9 @@ i would like to understand how to navigate to the app with pop-up bullets or (no
 * As a user i want to be able to navigate through the products according to their categories example: Spirit, Coolers, mixers and Ciders.
 
 * As a user search button is important to me just incase i am looking for a profile or a particular drink or a cocktail menu.
+
+
+#Added Nav Bar and buttons on the aside menu
+
+#added components
+*Jumbotron
