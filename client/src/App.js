@@ -1,9 +1,11 @@
 import './App.css';
+import Nav from './components/Navbar/Nav';
+
 
 function App() {
   return (
    <div>
-     <h1>Hello CockTails</h1>
+    <Nav/>
    </div>
   );
 }
