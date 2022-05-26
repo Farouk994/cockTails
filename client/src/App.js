@@ -1,17 +1,12 @@
-import './App.css';
-import Nav from './components/Navbar/Nav';
-import Article from './components/Article/Article';
-
-
+import "./App.css";
+import Home from "./components/Home";
 
 function App() {
-  return (
-   <div>
-    <Nav/>
-    <Article/>
-    <Jumbotron/>
-   </div>
-  );
+   return (
+      <div>
+         <Home />
+      </div>
+   );
 }
 
 export default App;
