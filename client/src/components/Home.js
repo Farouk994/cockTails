@@ -28,6 +28,7 @@ const Home = () => {
 
   const [counter, setCounter] = useState(person.amount);
   console.log(counter)
+
 //   const [state, setState] = setState("Kiiza");
 
 // setting the increase ans decreasing button for the object states in the console.
@@ -49,4 +50,5 @@ const Home = () => {
 
 export default Home;
 
+// create a react componet called article and add an object
 
